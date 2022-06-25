@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SimpleTexturedOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SimpleTexturedOpenGL.vcxproj -> C:\Users\Mikołaj\Documents\GitHub\WALLe\SimpleTexturedOpenGL\Release\WALLe.exe
